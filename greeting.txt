@@ -1,0 +1,2 @@
+add greeting message
+Hello user, welcome to the application
